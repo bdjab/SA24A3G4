@@ -1,7 +1,7 @@
 ## Installation
 
 
-This project uses Python v3.10.4 and the [venv module](https://docs.python.org/3/library/venv.html). 
+This project uses Python v3.12.6 and the [venv module](https://docs.python.org/3/library/venv.html). 
 
 
 Before installing the dependencies for the first time, you will need to create a virtual environment. As the project depends on Python v3.10.4, make sure that this is the current python version used in the moment that the virtual environment is created.
